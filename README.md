@@ -3,7 +3,8 @@
 Kaggle Competition Link:\
 https://www.kaggle.com/c/penyisihan-cci-summit-data-research
 
-The 3rd Winner
+The 1st Kaggle Leaderboard
+The 3rd Competition Winner
 ## Ferret Forecaster
 - Fathan Arya Maulana
 - Nabila Putri Azhari
